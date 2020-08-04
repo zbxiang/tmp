@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SaolDisplay-RegularItalic';
+  src: url('SaolDisplay-RegularItalic.eot');
+  src: url('SaolDisplay-RegularItalic.eot?#iefix') format('embedded-opentype'),
+       url('SaolDisplay-RegularItalic.svg#SaolDisplay-RegularItalic') format('svg'),
+       url('SaolDisplay-RegularItalic.ttf') format('truetype'),
+       url('SaolDisplay-RegularItalic.woff') format('woff'),
+       url('SaolDisplay-RegularItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

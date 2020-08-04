@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NOTDEF';
+  src: url('NOTDEF.eot');
+  src: url('NOTDEF.eot?#iefix') format('embedded-opentype'),
+       url('NOTDEF.svg#NOTDEF') format('svg'),
+       url('NOTDEF.ttf') format('truetype'),
+       url('NOTDEF.woff') format('woff'),
+       url('NOTDEF.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

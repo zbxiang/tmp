@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <!--#include file="include/meta.shtml" -->
+</head>
+<body class="page-index">
+    <!--#include file="include/header.shtml" -->
+    <div class="wrapper">
+    </div>
+    <!--#include file="include/footer.shtml" -->
+    <!--#include file="include/js.shtml" -->
+    <script>
+    </script>
+</body>
+</html>

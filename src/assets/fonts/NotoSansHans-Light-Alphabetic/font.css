@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NotoSansHans-Light-Alphabetic';
+  src: url('NotoSansHans-Light-Alphabetic.eot');
+  src: url('NotoSansHans-Light-Alphabetic.eot?#iefix') format('embedded-opentype'),
+       url('NotoSansHans-Light-Alphabetic.svg#NotoSansHans-Light-Alphabetic') format('svg'),
+       url('NotoSansHans-Light-Alphabetic.ttf') format('truetype'),
+       url('NotoSansHans-Light-Alphabetic.woff') format('woff'),
+       url('NotoSansHans-Light-Alphabetic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

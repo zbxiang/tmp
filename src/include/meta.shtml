@@ -1,0 +1,17 @@
+<meta charset="UTF-8">
+<meta name="keywords" content="{sm:$mypage.seo_keyword}">
+<meta name="description" content="{sm:$mypage.seo_description}">
+<meta name="author" content="sumaart.com">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="renderer" content="webkit">
+<meta name="screen-orientation" content="portrait">
+<meta name="x5-orientation" content="portrait">
+<meta name="format-detection" content="telephone=no,email=no,adress=no" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" >
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>temp</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="styles/app.css?v3.203">
+<!-- <link rel="stylesheet" href="//at.alicdn.com/t/font_1894601_bicwl3cjtln.css"> -->
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1894601_eqcnh3tk2y.css">

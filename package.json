@@ -1,0 +1,35 @@
+{
+  "name": "gulp-webpack",
+  "version": "1.0.0",
+  "description": "gulp-webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "author": "suma",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "flatpickr": "^4.6.3",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-sftp-up4": "^0.1.8",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1",
+    "jquery": "^3.4.1",
+    "jquery-bridget": "^2.0.1",
+    "jquery-mousewheel": "^3.1.13",
+    "jqueryui": "^1.11.1",
+    "masonry-layout": "^4.2.2",
+    "slick-carousel": "^1.8.1",
+    "vinyl-ftp": "^0.6.1",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "wow.js": "^1.2.2"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190801 at Tue Jun 23 04:34:37 2020
+ By Jimmy Wärting
+</metadata>
+<defs>
+<font id="NOTDEF" horiz-adv-x="750" vert-adv-y="1000" >
+  <font-face 
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    x-height="416"
+    cap-height="702"
+    bbox="50 -120 2775 880"
+    underline-thickness="50"
+    underline-position="-100"
+    stemh="16"
+    stemv="84"
+    unicode-range="U+E000-E000"
+  />
+    <missing-glyph />
+    <glyph glyph-name=".notdef" 
+d="M75 -120v1000h600v-1000h-600zM375 421l238 409h-477zM399 380l238 -409v818zM136 -70h477l-238 409zM112 789v-818l239 409z" />
+    <glyph glyph-name="GB1.40000" unicode="&#xe000;" horiz-adv-x="2825" 
+d="M1147 587h-110v50h-307v-50h-110v128h207v50h120v-50h200v-128zM1187 -5v90h208v552h-200v78h505v-78h-200v-552h207v-90h-520zM1765 630h502v-203h-167v-62h167v-80h-237l-10 -65h247v-225h-85v145h-170l-7 -145h-95l22 290h-72l-30 -290h-98l33 322v313zM2165 502l7 55
+h-312v-55h305zM50 557h112v-80h-112v80zM1860 365h145v62h-145v-62zM210 630v125h87v-45h40v45h105v-45h128v-80h-128v-73h128v-90h-360v90h127v73h-127zM625 525h352v-200h170v-90h-175l-112 -240h-120l110 240h-230v90h247v127h-242v73zM50 710h112v-80h-112v80zM217 402
+h345v-262h-345v262zM322 230h135v87h-135v-87zM162 75h418v-80h-530v407h112v-327zM1747 677v78h530v-78h-530zM2608 755l45 -120l44 120h78v-206h-55v135h-1l-44 -135h-44l-45 135h-1v-135h-55v206h78zM2500 755v-54h-57v-152h-59v152h-57v54h173z" />
+  </font>
+</defs></svg>

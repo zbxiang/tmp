@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Didot-HTF-M96-Medium-Ital';
+  src: url('Didot-HTF-M96-Medium-Ital.svg#Didot-HTF-M96-Medium-Ital') format('svg'),
+       url('Didot-HTF-M96-Medium-Ital.ttf') format('truetype'),
+       url('Didot-HTF-M96-Medium-Ital.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'didot-htf-m96-medium-ital';
+  src: url('didot-htf-m96-medium-ital.eot');
+  src: url('didot-htf-m96-medium-ital.eot?#iefix') format('embedded-opentype'),
+       url('didot-htf-m96-medium-ital.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

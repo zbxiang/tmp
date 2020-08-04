@@ -1,0 +1,102 @@
+@font-face {
+     font-family: 'NotoSansHans-Regular';
+     src: url('../assets/fonts/NotoSansHans-Regular-Alphabetic/NotoSansHans-Regular-Alphabetic.eot');
+     src: url('../assets/fonts/NotoSansHans-Regular-Alphabetic/NotoSansHans-Regular-Alphabetic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/NotoSansHans-Regular-Alphabetic/NotoSansHans-Regular-Alphabetic.svg#NotoSansHans-Regular-Alphabetic') format('svg'),
+          url('../assets/fonts/NotoSansHans-Regular-Alphabetic/NotoSansHans-Regular-Alphabetic.ttf') format('truetype'),
+          url('../assets/fonts/NotoSansHans-Regular-Alphabetic/NotoSansHans-Regular-Alphabetic.woff') format('woff'),
+          url('../assets/fonts/NotoSansHans-Regular-Alphabetic/NotoSansHans-Regular-Alphabetic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'NotoSansHans-Thin';
+     src: url('../assets/fonts/NotoSansHans-Thin-Alphabetic/NotoSansHans-Thin-Alphabetic.eot');
+     src: url('../assets/fonts/NotoSansHans-Thin-Alphabetic/NotoSansHans-Thin-Alphabetic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/NotoSansHans-Thin-Alphabetic/NotoSansHans-Thin-Alphabetic.svg#NotoSansHans-Thin-Alphabetic') format('svg'),
+          url('../assets/fonts/NotoSansHans-Thin-Alphabetic/NotoSansHans-Thin-Alphabetic.ttf') format('truetype'),
+          url('../assets/fonts/NotoSansHans-Thin-Alphabetic/NotoSansHans-Thin-Alphabetic.woff') format('woff'),
+          url('../assets/fonts/NotoSansHans-Thin-Alphabetic/NotoSansHans-Thin-Alphabetic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'NotoSansHans-Medium';
+     src: url('../assets/fonts/NotoSansHans-Medium-Alphabetic/NotoSansHans-Medium-Alphabetic.eot');
+     src: url('../assets/fonts/NotoSansHans-Medium-Alphabetic/NotoSansHans-Medium-Alphabetic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/NotoSansHans-Medium-Alphabetic/NotoSansHans-Medium-Alphabetic.svg#NotoSansHans-Medium-Alphabetic') format('svg'),
+          url('../assets/fonts/NotoSansHans-Medium-Alphabetic/NotoSansHans-Medium-Alphabetic.ttf') format('truetype'),
+          url('../assets/fonts/NotoSansHans-Medium-Alphabetic/NotoSansHans-Medium-Alphabetic.woff') format('woff'),
+          url('../assets/fonts/NotoSansHans-Medium-Alphabetic/NotoSansHans-Medium-Alphabetic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'NotoSansHans-Light';
+     src: url('../assets/fonts/NotoSansHans-Light-Alphabetic/NotoSansHans-Light-Alphabetic.eot');
+     src: url('../assets/fonts/NotoSansHans-Light-Alphabetic/NotoSansHans-Light-Alphabetic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/NotoSansHans-Light-Alphabetic/NotoSansHans-Light-Alphabetic.svg#NotoSansHans-Light-Alphabetic') format('svg'),
+          url('../assets/fonts/NotoSansHans-Light-Alphabetic/NotoSansHans-Light-Alphabetic.ttf') format('truetype'),
+          url('../assets/fonts/NotoSansHans-Light-Alphabetic/NotoSansHans-Light-Alphabetic.woff') format('woff'),
+          url('../assets/fonts/NotoSansHans-Light-Alphabetic/NotoSansHans-Light-Alphabetic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'NotoSansHans-DemiLight';
+     src: url('../assets/fonts/NotoSansHans-DemiLight-Alphabetic/NotoSansHans-DemiLight-Alphabetic.eot');
+     src: url('../assets/fonts/NotoSansHans-DemiLight-Alphabetic/NotoSansHans-DemiLight-Alphabetic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/NotoSansHans-DemiLight-Alphabetic/NotoSansHans-DemiLight-Alphabetic.svg#NotoSansHans-DemiLight-Alphabetic') format('svg'),
+          url('../assets/fonts/NotoSansHans-DemiLight-Alphabetic/NotoSansHans-DemiLight-Alphabetic.ttf') format('truetype'),
+          url('../assets/fonts/NotoSansHans-DemiLight-Alphabetic/NotoSansHans-DemiLight-Alphabetic.woff') format('woff'),
+          url('../assets/fonts/NotoSansHans-DemiLight-Alphabetic/NotoSansHans-DemiLight-Alphabetic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'NotoSansHans-Bold';
+     src: url('../assets/fonts/NotoSansHans-Bold-Alphabetic/NotoSansHans-Bold-Alphabetic.eot');
+     src: url('../assets/fonts/NotoSansHans-Bold-Alphabetic/NotoSansHans-Bold-Alphabetic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/NotoSansHans-Bold-Alphabetic/NotoSansHans-Bold-Alphabetic.svg#NotoSansHans-Bold-Alphabetic') format('svg'),
+          url('../assets/fonts/NotoSansHans-Bold-Alphabetic/NotoSansHans-Bold-Alphabetic.ttf') format('truetype'),
+          url('../assets/fonts/NotoSansHans-Bold-Alphabetic/NotoSansHans-Bold-Alphabetic.woff') format('woff'),
+          url('../assets/fonts/NotoSansHans-Bold-Alphabetic/NotoSansHans-Bold-Alphabetic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'NotoSansHans-Black';
+     src: url('../assets/fonts/NotoSansHans-Black-Alphabetic/NotoSansHans-Black-Alphabetic.eot');
+     src: url('../assets/fonts/NotoSansHans-Black-Alphabetic/NotoSansHans-Black-Alphabetic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/NotoSansHans-Black-Alphabetic/NotoSansHans-Black-Alphabetic.svg#NotoSansHans-Black-Alphabetic') format('svg'),
+          url('../assets/fonts/NotoSansHans-Black-Alphabetic/NotoSansHans-Black-Alphabetic.ttf') format('truetype'),
+          url('../assets/fonts/NotoSansHans-Black-Alphabetic/NotoSansHans-Black-Alphabetic.woff') format('woff'),
+          url('../assets/fonts/NotoSansHans-Black-Alphabetic/NotoSansHans-Black-Alphabetic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+
+@font-face {
+     font-family: 'SaolDisplay-RegularItalic';
+     src: url('../assets/fonts/SaolDisplay/SaolDisplay-RegularItalic.eot');
+     src: url('../assets/fonts/SaolDisplay/SaolDisplay-RegularItalic.eot?#iefix') format('embedded-opentype'),
+          url('../assets/fonts/SaolDisplay/SaolDisplay-RegularItalic.svg#SaolDisplay-RegularItalic') format('svg'),
+          url('../assets/fonts/SaolDisplay/SaolDisplay-RegularItalic.ttf') format('truetype'),
+          url('../assets/fonts/SaolDisplay/SaolDisplay-RegularItalic.woff') format('woff'),
+          url('../assets/fonts/SaolDisplay/SaolDisplay-RegularItalic.woff2') format('woff2');
+     font-weight: normal;
+     font-style: normal;
+}
+   
+   
+   
+   
+   
+   
+   

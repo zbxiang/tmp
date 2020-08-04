@@ -1,0 +1,54 @@
+// Calc
+@function vw($value, $width) {
+	@return ($value / $width * 100) + vw;
+}
+
+@function vh($value, $height) {
+	@return ($value / $height * 100) + vh;
+}
+
+@function percent($width, $height) {
+	@return ($height / $width * 100%);
+}
+
+@function em($value, $size) {
+	@return ($value / $size) + em;
+}
+
+@function wd($value, $width) {
+	@return ($value / $width * 100%);
+}
+
+@mixin bgImg($w:0,$h:0,$img:'',$size:contain){
+    display:inline-block;
+    width:$w;
+    height:$h;
+    background:url($img) no-repeat center;
+    background-size:$size;
+}
+
+// Transition
+%transition-all {
+    -webkit-transition: all .3s;
+            transition: all .3s;
+}
+%transition-color {
+    -webkit-transition: color .3s;
+    transition: color .3s;
+}
+%translateY50 {
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+%translateX50 {
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+%translate50 {
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+%backface-visibility-hidden {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
